@@ -6,13 +6,16 @@ import json
 
 
 def extract_date_from_filename(filename):
-    """Extract and format date from filename."""
-    match = re.search(r'k_(\d+)-(\d+)-(\d+)', filename)
-    if not match:
+    """Extract and format date from filename.
+    """
+    pattern = re.compile(r"(\d{2})[-._](\d{4})[_-]?TAB_internet_stav_k_.*\.(xls|xlsx)")
+
+
+    match = pattern.search(filename)
+    if match:
+        return f"{match.group(1)}.{match.group(2)}"
+    else:
         return None
-    
-    day, month, year = match.groups()
-    return f"{month}.{year}"
 
 
 def find_stp_row(df):
@@ -75,10 +78,11 @@ def parse_excel_file(file):
             
         try:
             residence_type = str(row_values[1]).lower()
+            
             count_data = {
-                "muži": int(row_values[2]),
-                "ženy": int(row_values[3]),
-                "celkem": int(row_values[4])
+                "muži": int(0 if pd.isna(row_values[2]) else row_values[2]),
+                "ženy": int(0 if pd.isna(row_values[3]) else row_values[3]),
+                "celkem": int(0 if pd.isna(row_values[4]) else row_values[4])
             }
             
             # Initialize nested dictionaries as needed
@@ -145,14 +149,24 @@ def main():
     # Calculate totals
     parsed_data = calculate_totals(parsed_data)
     
+    # Sort dates for each country
+    sorted_data = {}
+    for country, country_data in parsed_data.items():
+        # Sort dates (DD.YYYY format) within this country
+        sorted_dates = sorted(country_data.keys(), 
+                             key=lambda x: (int(x.split('.')[1]), int(x.split('.')[0])))
+        
+        # Create a new ordered dictionary for this country
+        sorted_data[country] = {date: country_data[date] for date in sorted_dates}
+
     # Save the parsed data to a json file
-    with open("parsed_data_formatted.json", 'w', encoding='utf-8') as f:
-        json.dump(parsed_data, f, indent=4, ensure_ascii=False)
+    with open("./output/parsed_data_formatted.json", 'w', encoding='utf-8') as f:
+        json.dump(sorted_data, f, indent=4, ensure_ascii=False)
 
-    with open("parsed_data_raw.json", 'w', encoding='utf-8') as f:
-        json.dump(parsed_data, f, ensure_ascii=False)
+    with open("./output/parsed_data_raw.json", 'w', encoding='utf-8') as f:
+        json.dump(sorted_data, f, ensure_ascii=False)
 
-    return parsed_data
+    return sorted_data
 
 
 if __name__ == "__main__":
