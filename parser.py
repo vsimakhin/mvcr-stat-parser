@@ -174,7 +174,7 @@ def main():
 
     # Save the parsed data to a json file
     with open("./output/parsed_data_formatted.json", 'w', encoding='utf-8') as f:
-        json.dump(sorted_data, f, indent=4, ensure_ascii=False)
+        json.dump(sorted_data, f, indent=2, ensure_ascii=False)
 
     with open("./output/parsed_data_raw.json", 'w', encoding='utf-8') as f:
         json.dump(sorted_data, f, ensure_ascii=False)
