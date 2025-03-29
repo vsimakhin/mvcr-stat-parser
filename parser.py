@@ -8,14 +8,18 @@ import json
 def extract_date_from_filename(filename):
     """Extract and format date from filename.
     """
-    pattern = re.compile(r"(\d{2})[-._](\d{4})[_-]?TAB_internet_stav_k_.*\.(xls|xlsx)")
+    pattern1 = re.compile(r"(\d{2})[-._](\d{4})_TAB_internet_stav_k_.*\.(xls|xlsx)")
+    pattern2 = re.compile(r"STAV_K_\d{1,2}[-._](\d{1,2})[-._](\d{4})\.(xls|xlsx)")
 
+    match1 = pattern1.search(filename)
+    match2 = pattern2.search(filename)
 
-    match = pattern.search(filename)
-    if match:
-        return f"{match.group(1)}.{match.group(2)}"
-    else:
-        return None
+    if match1:
+        return f"{match1.group(1)}.{match1.group(2)}"
+    elif match2:
+        return f"{match2.group(1).zfill(2)}.{match2.group(2)}"
+
+    return None
 
 
 def find_stp_row(df):
@@ -24,6 +28,15 @@ def find_stp_row(df):
         if any('STP' in str(cell) for cell in row if pd.notna(cell)):
             return idx + 1
     return None
+
+
+def deduplicate_country_names(country):
+    """Deduplicate country names."""
+    replacements = {
+        "Ruská federace": "Rusko",
+    }
+
+    return replacements.get(country, country)
 
 
 def parse_excel_file(file):
@@ -70,7 +83,7 @@ def parse_excel_file(file):
         
         # Update country if not NaN
         if pd.notna(row_values[0]):
-            current_country = row_values[0]
+            current_country = deduplicate_country_names(row_values[0])
         
         # Skip rows with no country
         if current_country is None or pd.isna(row_values[1]):
@@ -124,7 +137,7 @@ def calculate_totals(parsed_data):
 def main():
     """Main function to parse Excel files and calculate statistics."""
     # Get all xlsx files in the current directory
-    xlsx_files = [file for file in os.listdir("./source") if file.endswith('.xlsx')]
+    xlsx_files = [file for file in os.listdir("./source") if file.endswith(('.xls', '.xlsx'))]
     if not xlsx_files:
         print("No Excel files found in the current directory")
         return
