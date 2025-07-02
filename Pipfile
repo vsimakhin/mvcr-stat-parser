@@ -9,6 +9,7 @@ openpyxl = "*"
 xlrd = "*"
 plotly = "*"
 seaborn = "*"
+dash = "*"
 
 [dev-packages]
 
