@@ -11,3 +11,9 @@ pipenv install
 pipenv shell
 python app.py
 ```
+
+
+### Data update
+
+- Download new files from https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx to the `source` folder
+- run `python ./parser.py`
