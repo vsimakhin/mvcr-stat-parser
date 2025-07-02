@@ -1,6 +1,5 @@
 Generates charts based on the official MVCR stats (https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx) for foreigners in the Czech Republic
-![image](https://github.com/user-attachments/assets/595df124-091a-4e76-bb61-074c44f72c3d)
-
+![image](https://github.com/user-attachments/assets/3fa6a8b9-d5df-43a0-b6bf-e9b95021d200)
 
 ### Usage 
 
