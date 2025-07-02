@@ -61,21 +61,23 @@ def update_chart_and_text(selected_country):
 
     layout = go.Layout(
         title=f"Cizinci s povoleným pobytem - {selected_country}",
-        xaxis=dict(title='Date'),
-        yaxis=dict(title='Value'),
         margin=dict(l=40, r=40, t=60, b=40),
         hovermode='closest',
         height=600
     )
 
-    # Prepare min/max summary text
     df['Year'] = df['Date'].dt.year
     lines = []
     for year in sorted(df['Year'].dropna().unique()):
         df_year = df[df['Year'] == year]
-        min_val = df_year['total'].min()
-        max_val = df_year['total'].max()
-        lines.append(f"{year}: Min total = {min_val}, Max total = {max_val}")
+        line = (
+            f"{year}: "
+            f"Total Min={df_year['total'].min()}, Max={df_year['total'].max()} | "
+            f"Permanent Min={df_year['permanent'].min()}, Max={df_year['permanent'].max()} | "
+            f"Long Min={df_year['long'].min()}, Max={df_year['long'].max()} | "
+            f"Asyl Min={df_year['asyl'].min()}, Max={df_year['asyl'].max()}"
+        )
+        lines.append(line)
     summary_text = "\n".join(lines)
 
     return {'data': traces, 'layout': layout}, summary_text
