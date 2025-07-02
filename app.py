@@ -12,7 +12,7 @@ app = Dash(__name__)
 countries = sorted(data.keys())
 
 app.layout = html.Div([
-    html.H2("Migration Data Explorer"),
+    html.H2("Cizinci s povoleným pobytem v ČR"),
     dcc.Dropdown(
         id='country-dropdown',
         options=[{'label': c, 'value': c} for c in countries],
@@ -60,7 +60,7 @@ def update_chart_and_text(selected_country):
     ]
 
     layout = go.Layout(
-        title=f"Migration Data for {selected_country}",
+        title=f"Cizinci s povoleným pobytem - {selected_country}",
         xaxis=dict(title='Date'),
         yaxis=dict(title='Value'),
         margin=dict(l=40, r=40, t=60, b=40),
