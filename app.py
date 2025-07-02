@@ -81,4 +81,4 @@ def update_chart_and_text(selected_country):
     return {'data': traces, 'layout': layout}, summary_text
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
