@@ -1,7 +1,7 @@
-Generates charts based on the official MVCR stats (https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx) for foreigners in the Czech Republic
-![image](https://github.com/user-attachments/assets/3fa6a8b9-d5df-43a0-b6bf-e9b95021d200)
+English: Generates charts based on the official MVCR stats (https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx) for foreigners in the Czech Republic
+Česky: Generuje grafy z oficiálních statistik MVČR o cizincích s povoleným pobytem v ČR
 
-Generuje grafy z oficiálních statistik MVČR o cizincích v ČR - Cizinci s povoleným pobytem v ČR
+![image](https://github.com/user-attachments/assets/3fa6a8b9-d5df-43a0-b6bf-e9b95021d200)
 
 ### Usage 
 
