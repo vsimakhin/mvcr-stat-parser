@@ -63,7 +63,8 @@ def update_chart_and_text(selected_country):
         title=f"Cizinci s povoleným pobytem - {selected_country}",
         margin=dict(l=40, r=40, t=60, b=40),
         hovermode='closest',
-        height=600
+        height=600,
+        yaxis=dict(tickformat='d')
     )
 
     df['Year'] = df['Date'].dt.year
