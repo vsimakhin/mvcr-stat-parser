@@ -6,12 +6,20 @@ import plotly.graph_objs as go
 import plotly.io as pio
 from tabulate import tabulate
 import math
+import unicodedata
 
 # Constants
 DATA_PATH = "./output/parsed_data_raw.json"
 STATS_DIR = "./stats"
 IMG_DIR = os.path.join(STATS_DIR, "img")
 INDEX_FILE = "README.md"
+
+def remove_diacritics(text):
+    """Remove diacritics from a string."""
+    if not text:
+        return ""
+    normalized = unicodedata.normalize('NFD', text)
+    return "".join(c for c in normalized if unicodedata.category(c) != 'Mn')
 
 def fmt(n):
     if pd.isna(n):
@@ -59,7 +67,7 @@ def generate_stats():
 
     for country in countries:
         # Sanitize country name for filenames
-        safe_country = country.replace(" ", "_").replace("/", "_").replace("\\", "_")
+        safe_country = remove_diacritics(country).replace(" ", "_").replace("/", "_").replace("\\", "_")
         print(f"Generating stats for {country}...")
         
         # Extract data
