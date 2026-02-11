@@ -54,9 +54,9 @@ def update_chart_and_text(selected_country):
 
     traces = [
         go.Scatter(x=df["Date"], y=df["total"], mode='lines+markers', name='Total'),
-        go.Scatter(x=df["Date"], y=df["long"], mode='lines+markers', name='Long'),
-        go.Scatter(x=df["Date"], y=df["permanent"], mode='lines+markers', name='Permanent'),
-        go.Scatter(x=df["Date"], y=df["asyl"], mode='lines+markers', name='Asyl'),
+        go.Scatter(x=df["Date"], y=df["long"], mode='lines+markers', name='Long Residence Permit'),
+        go.Scatter(x=df["Date"], y=df["permanent"], mode='lines+markers', name='Permanent Residence Permit'),
+        go.Scatter(x=df["Date"], y=df["asyl"], mode='lines+markers', name='Asylum'),
     ]
 
     layout = go.Layout(
@@ -74,9 +74,9 @@ def update_chart_and_text(selected_country):
         line = (
             f"{year}: "
             f"Total Min={df_year['total'].min()}, Max={df_year['total'].max()} | "
-            f"Permanent Min={df_year['permanent'].min()}, Max={df_year['permanent'].max()} | "
-            f"Long Min={df_year['long'].min()}, Max={df_year['long'].max()} | "
-            f"Asyl Min={df_year['asyl'].min()}, Max={df_year['asyl'].max()}"
+            f"Permanent Residence Permit Min={df_year['permanent'].min()}, Max={df_year['permanent'].max()} | "
+            f"Long Residence Permit Min={df_year['long'].min()}, Max={df_year['long'].max()} | "
+            f"Asylum Min={df_year['asyl'].min()}, Max={df_year['asyl'].max()}"
         )
         lines.append(line)
     summary_text = "\n".join(lines)
