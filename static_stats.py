@@ -149,7 +149,7 @@ def generate_stats():
         
         summary_md = tabulate(
             summary_data,
-            headers=["Year", "Total Min/Max", "Longterm Residence Permit Min/Max", "Permanent Residence Permit Min/Max", "Asylum Min/Max"],
+            headers=["Year", "Total", "Longterm Residence Permit", "Permanent Residence Permit", "Asylum"],
             tablefmt="github",
             disable_numparse=True
         )
