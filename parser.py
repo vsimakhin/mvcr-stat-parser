@@ -126,8 +126,8 @@ def parse_excel_file(file):
         if pd.notna(row_values[0]):
             current_country = deduplicate_country_names(row_values[0])
         
-        # Skip rows with no country
-        if current_country is None or pd.isna(row_values[1]):
+        # Skip rows with no country or Česká Republika
+        if current_country is None or current_country == "Česká Republika" or pd.isna(row_values[1]):
             continue
             
         try:

@@ -82,6 +82,21 @@ def generate_stats():
     data["Total"] = totals
     index_links = []
 
+    # Define Europe countries
+    EUROPE = [
+        "Albánie", "Andorra", "Belgie", "Bosna a Hercegovina", "Bulharsko", "Bělorusko",
+        "Chorvatsko", "Dánsko", "Estonsko", "Finsko", "Francie", "Irsko", "Island",
+        "Itálie", "Kosovo", "Kypr", "Lichtenštejnsko", "Litva", "Lotyšsko", "Lucembursko",
+        "Malta", "Maďarsko", "Moldavsko", "Monako", "Německo", "Nizozemsko", "Norsko",
+        "Polsko", "Portugalsko", "Rakousko", "Rumunsko", "Rusko", "San Marino",
+        "Severní Makedonie", "Slovensko", "Slovinsko", "Spojené království", "Srbsko",
+        "Ukrajina", "Vatikán", "Černá Hora", "Řecko", "Španělsko", "Švédsko", "Švýcarsko"
+    ]
+
+    totals_links = []
+    europe_links = []
+    other_links = []
+
     for country in countries:
         # Sanitize country name for filenames
         safe_country = remove_diacritics(country).replace(" ", "_").replace("/", "_").replace("\\", "_")
@@ -209,18 +224,35 @@ def generate_stats():
             f.write(table_md)
             f.write("\n")
 
-        index_links.append(f"- [{country}](stats/{md_filename})")
+        if country == "Total":
+            totals_links.append(f"- [{country}](stats/{md_filename})")
+        elif country in EUROPE:
+            europe_links.append(f"- [{country}](stats/{md_filename})")
+        else:
+            other_links.append(f"- [{country}](stats/{md_filename})")
 
     # Generate index file (stats.md in root)
     print(f"Generating root {INDEX_FILE}...")
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
         f.write("## Cizinci s povoleným pobytem v ČR/Foreigners in Czech Republic - Statistics Overview\n\n")
         f.write("Data source: https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx\n\n")
-        f.write("Tento soubor obsahuje odkazy na detailní statistiky pro každý země/This file contains links to detailed statistics for each country.\n\n")
-        f.write("\n".join(index_links))
-        f.write("\n")
-        f.write("""
 
+        if totals_links:
+            f.write("### Celkové statistiky / Total Statistics\n\n")
+            f.write("\n".join(totals_links))
+            f.write("\n\n")
+
+        if europe_links:
+            f.write("### Evropa / Europe\n\n")
+            f.write("\n".join(europe_links))
+            f.write("\n\n")
+
+        if other_links:
+            f.write("### Ostatní země / Other countries\n\n")
+            f.write("\n".join(other_links))
+            f.write("\n\n")
+
+        f.write("""
 ### Usage 
 
 You need python installed. Clone or download the repository from github and run:
@@ -238,7 +270,7 @@ python static_stats.py # for static stats
 - run `python ./parser.py`
 
         """)
-    
+
     print("Execution completed successfully!")
 
 if __name__ == "__main__":
