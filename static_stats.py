@@ -62,7 +62,24 @@ def generate_stats():
         print(f"Error loading data: {e}")
         return
 
-    countries = sorted(data.keys())
+    # Calculate totals
+    totals = {}
+    for country, dates in data.items():
+        for date, categories in dates.items():
+            if date not in totals:
+                totals[date] = {
+                    'total': {'celkem': 0},
+                    'přechodně': {'celkem': 0},
+                    'trvale': {'celkem': 0},
+                    'dočasná ochrana': {'celkem': 0}
+                }
+            totals[date]['total']['celkem'] += categories.get('total', {}).get('celkem', 0)
+            totals[date]['přechodně']['celkem'] += categories.get('přechodně', {}).get('celkem', 0)
+            totals[date]['trvale']['celkem'] += categories.get('trvale', {}).get('celkem', 0)
+            totals[date]['dočasná ochrana']['celkem'] += categories.get('dočasná ochrana', {}).get('celkem', 0)
+
+    countries = ["Total"] + sorted(data.keys())
+    data["Total"] = totals
     index_links = []
 
     for country in countries:

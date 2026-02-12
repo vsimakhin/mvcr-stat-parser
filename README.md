@@ -4,6 +4,7 @@ Data source: https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx
 
 Tento soubor obsahuje odkazy na detailní statistiky pro každý země/This file contains links to detailed statistics for each country.
 
+- [Total](stats/Total.md)
 - [Afghánistán](stats/Afghanistan.md)
 - [Albánie](stats/Albanie.md)
 - [Alžírsko](stats/Alzirsko.md)
