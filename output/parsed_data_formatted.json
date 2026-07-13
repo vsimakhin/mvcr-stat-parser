@@ -2753,6 +2753,23 @@
         "ženy": 239,
         "celkem": 575
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 71,
+        "ženy": 54,
+        "celkem": 125
+      },
+      "trvale": {
+        "muži": 266,
+        "ženy": 185,
+        "celkem": 451
+      },
+      "total": {
+        "muži": 337,
+        "ženy": 239,
+        "celkem": 576
+      }
     }
   },
   "Albánie": {
@@ -5568,6 +5585,23 @@
         "muži": 499,
         "ženy": 274,
         "celkem": 773
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 290,
+        "ženy": 182,
+        "celkem": 472
+      },
+      "trvale": {
+        "muži": 212,
+        "ženy": 93,
+        "celkem": 305
+      },
+      "total": {
+        "muži": 502,
+        "ženy": 275,
+        "celkem": 777
       }
     }
   },
@@ -8420,6 +8454,28 @@
         "ženy": 215,
         "celkem": 1033
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "přechodně": {
+        "muži": 193,
+        "ženy": 104,
+        "celkem": 297
+      },
+      "trvale": {
+        "muži": 624,
+        "ženy": 110,
+        "celkem": 734
+      },
+      "total": {
+        "muži": 820,
+        "ženy": 214,
+        "celkem": 1034
+      }
     }
   },
   "Angola": {
@@ -11161,6 +11217,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 16,
+        "ženy": 8,
+        "celkem": 24
+      },
+      "trvale": {
+        "muži": 93,
+        "ženy": 21,
+        "celkem": 114
+      },
+      "total": {
+        "muži": 109,
+        "ženy": 29,
+        "celkem": 138
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 16,
         "ženy": 8,
@@ -14017,6 +14090,23 @@
         "ženy": 177,
         "celkem": 391
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 132,
+        "ženy": 125,
+        "celkem": 257
+      },
+      "trvale": {
+        "muži": 81,
+        "ženy": 50,
+        "celkem": 131
+      },
+      "total": {
+        "muži": 213,
+        "ženy": 175,
+        "celkem": 388
+      }
     }
   },
   "Arménie": {
@@ -16868,6 +16958,28 @@
         "ženy": 1294,
         "celkem": 2770
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 13,
+        "ženy": 8,
+        "celkem": 21
+      },
+      "přechodně": {
+        "muži": 643,
+        "ženy": 499,
+        "celkem": 1142
+      },
+      "trvale": {
+        "muži": 842,
+        "ženy": 780,
+        "celkem": 1622
+      },
+      "total": {
+        "muži": 1498,
+        "ženy": 1287,
+        "celkem": 2785
+      }
     }
   },
   "Austrálie": {
@@ -19698,6 +19810,28 @@
         "muži": 569,
         "ženy": 303,
         "celkem": 872
+      }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 289,
+        "ženy": 179,
+        "celkem": 468
+      },
+      "trvale": {
+        "muži": 275,
+        "ženy": 116,
+        "celkem": 391
+      },
+      "total": {
+        "muži": 565,
+        "ženy": 295,
+        "celkem": 860
       }
     }
   },
@@ -22550,6 +22684,28 @@
         "ženy": 920,
         "celkem": 2613
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 35,
+        "ženy": 12,
+        "celkem": 47
+      },
+      "přechodně": {
+        "muži": 1069,
+        "ženy": 528,
+        "celkem": 1597
+      },
+      "trvale": {
+        "muži": 591,
+        "ženy": 387,
+        "celkem": 978
+      },
+      "total": {
+        "muži": 1695,
+        "ženy": 927,
+        "celkem": 2622
+      }
     }
   },
   "Bahrajn": {
@@ -25291,6 +25447,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 4,
+        "celkem": 8
+      },
+      "trvale": {
+        "muži": 7,
+        "ženy": 3,
+        "celkem": 10
+      },
+      "total": {
+        "muži": 11,
+        "ženy": 7,
+        "celkem": 18
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 4,
         "ženy": 4,
@@ -28062,6 +28235,23 @@
         "ženy": 327,
         "celkem": 1512
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 1005,
+        "ženy": 290,
+        "celkem": 1295
+      },
+      "trvale": {
+        "muži": 187,
+        "ženy": 44,
+        "celkem": 231
+      },
+      "total": {
+        "muži": 1192,
+        "ženy": 334,
+        "celkem": 1526
+      }
     }
   },
   "Barbados": {
@@ -30318,6 +30508,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 2,
+        "ženy": 2,
+        "celkem": 4
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 2,
+        "celkem": 5
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 2,
         "ženy": 2,
@@ -32864,6 +33071,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 7,
+        "ženy": 1,
+        "celkem": 8
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 5,
         "ženy": 1,
@@ -35730,6 +35954,28 @@
         "ženy": 3798,
         "celkem": 7092
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 11,
+        "ženy": 14,
+        "celkem": 25
+      },
+      "přechodně": {
+        "muži": 1358,
+        "ženy": 1306,
+        "celkem": 2664
+      },
+      "trvale": {
+        "muži": 1912,
+        "ženy": 2466,
+        "celkem": 4378
+      },
+      "total": {
+        "muži": 3281,
+        "ženy": 3786,
+        "celkem": 7067
+      }
     }
   },
   "Benin": {
@@ -38486,6 +38732,23 @@
         "ženy": 12,
         "celkem": 34
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 7,
+        "ženy": 1,
+        "celkem": 8
+      },
+      "trvale": {
+        "muži": 15,
+        "ženy": 11,
+        "celkem": 26
+      },
+      "total": {
+        "muži": 22,
+        "ženy": 12,
+        "celkem": 34
+      }
     }
   },
   "Bhútán": {
@@ -41117,6 +41380,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 10,
+        "celkem": 11
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 11,
+        "celkem": 12
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 10,
@@ -43888,6 +44168,23 @@
         "ženy": 31,
         "celkem": 88
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 25,
+        "ženy": 19,
+        "celkem": 44
+      },
+      "trvale": {
+        "muži": 33,
+        "ženy": 13,
+        "celkem": 46
+      },
+      "total": {
+        "muži": 58,
+        "ženy": 32,
+        "celkem": 90
+      }
     }
   },
   "Bosna a Hercegovina": {
@@ -46644,6 +46941,23 @@
         "ženy": 803,
         "celkem": 2211
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 499,
+        "ženy": 243,
+        "celkem": 742
+      },
+      "trvale": {
+        "muži": 907,
+        "ženy": 561,
+        "celkem": 1468
+      },
+      "total": {
+        "muži": 1406,
+        "ženy": 804,
+        "celkem": 2210
+      }
     }
   },
   "Botswana": {
@@ -49305,6 +49619,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 6,
+        "ženy": 7,
+        "celkem": 13
+      },
+      "trvale": {
+        "muži": 6,
+        "ženy": 10,
+        "celkem": 16
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 17,
+        "celkem": 29
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 6,
         "ženy": 7,
@@ -52076,6 +52407,23 @@
         "ženy": 681,
         "celkem": 1442
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 492,
+        "ženy": 471,
+        "celkem": 963
+      },
+      "trvale": {
+        "muži": 272,
+        "ženy": 207,
+        "celkem": 479
+      },
+      "total": {
+        "muži": 764,
+        "ženy": 678,
+        "celkem": 1442
+      }
     }
   },
   "britské zámořské území": {
@@ -53715,6 +54063,23 @@
         "ženy": 2,
         "celkem": 4
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 2,
+        "ženy": 1,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 2,
+        "celkem": 5
+      }
     }
   },
   "Britské indickooceánské území": {
@@ -54777,6 +55142,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -57638,6 +58015,28 @@
         "ženy": 5,
         "celkem": 20
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 4,
+        "celkem": 13
+      },
+      "total": {
+        "muži": 15,
+        "ženy": 5,
+        "celkem": 20
+      }
     }
   },
   "Burundi": {
@@ -60198,6 +60597,23 @@
         "muži": 10,
         "ženy": 2,
         "celkem": 12
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "trvale": {
+        "muži": 6,
+        "ženy": 1,
+        "celkem": 7
+      },
+      "total": {
+        "muži": 11,
+        "ženy": 2,
+        "celkem": 13
       }
     }
   },
@@ -62845,6 +63261,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      },
+      "trvale": {
+        "muži": 4,
+        "ženy": 1,
+        "celkem": 5
+      },
+      "total": {
+        "muži": 5,
+        "ženy": 2,
+        "celkem": 7
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 1,
@@ -65610,6 +66043,23 @@
         "muži": 99,
         "ženy": 63,
         "celkem": 162
+      },
+      "total": {
+        "muži": 150,
+        "ženy": 109,
+        "celkem": 259
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 50,
+        "ženy": 45,
+        "celkem": 95
+      },
+      "trvale": {
+        "muži": 100,
+        "ženy": 64,
+        "celkem": 164
       },
       "total": {
         "muži": 150,
@@ -68397,6 +68847,23 @@
         "ženy": 4760,
         "celkem": 10350
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3021,
+        "ženy": 2261,
+        "celkem": 5282
+      },
+      "trvale": {
+        "muži": 2543,
+        "ženy": 2494,
+        "celkem": 5037
+      },
+      "total": {
+        "muži": 5564,
+        "ženy": 4755,
+        "celkem": 10319
+      }
     }
   },
   "Dominika": {
@@ -70834,6 +71301,23 @@
         "muži": 20,
         "ženy": 6,
         "celkem": 26
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 11,
+        "ženy": 5,
+        "celkem": 16
+      },
+      "trvale": {
+        "muži": 10,
+        "ženy": 1,
+        "celkem": 11
+      },
+      "total": {
+        "muži": 21,
+        "ženy": 6,
+        "celkem": 27
       }
     }
   },
@@ -73591,6 +74075,23 @@
         "ženy": 81,
         "celkem": 218
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 102,
+        "ženy": 63,
+        "celkem": 165
+      },
+      "trvale": {
+        "muži": 42,
+        "ženy": 21,
+        "celkem": 63
+      },
+      "total": {
+        "muži": 144,
+        "ženy": 84,
+        "celkem": 228
+      }
     }
   },
   "Džibutsko": {
@@ -76017,6 +76518,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 2,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 1,
@@ -78883,6 +79401,28 @@
         "ženy": 413,
         "celkem": 1986
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "přechodně": {
+        "muži": 800,
+        "ženy": 297,
+        "celkem": 1097
+      },
+      "trvale": {
+        "muži": 774,
+        "ženy": 118,
+        "celkem": 892
+      },
+      "total": {
+        "muži": 1576,
+        "ženy": 415,
+        "celkem": 1991
+      }
     }
   },
   "Ekvádor": {
@@ -81734,6 +82274,28 @@
         "ženy": 182,
         "celkem": 360
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 143,
+        "ženy": 156,
+        "celkem": 299
+      },
+      "trvale": {
+        "muži": 36,
+        "ženy": 29,
+        "celkem": 65
+      },
+      "total": {
+        "muži": 180,
+        "ženy": 185,
+        "celkem": 365
+      }
     }
   },
   "Eritrea": {
@@ -84480,6 +85042,23 @@
         "ženy": 7,
         "celkem": 13
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 4,
+        "celkem": 8
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 3,
+        "celkem": 5
+      },
+      "total": {
+        "muži": 6,
+        "ženy": 7,
+        "celkem": 13
+      }
     }
   },
   "Eswatini": {
@@ -85702,6 +86281,18 @@
       }
     },
     "04.2026": {
+      "trvale": {
+        "muži": 0,
+        "ženy": 2,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 2,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "trvale": {
         "muži": 0,
         "ženy": 2,
@@ -88468,6 +89059,23 @@
         "ženy": 120,
         "celkem": 313
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 149,
+        "ženy": 91,
+        "celkem": 240
+      },
+      "trvale": {
+        "muži": 44,
+        "ženy": 30,
+        "celkem": 74
+      },
+      "total": {
+        "muži": 193,
+        "ženy": 121,
+        "celkem": 314
+      }
     }
   },
   "Fidži": {
@@ -91164,6 +91772,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      },
+      "trvale": {
+        "muži": 3,
+        "ženy": 1,
+        "celkem": 4
+      },
+      "total": {
+        "muži": 4,
+        "ženy": 2,
+        "celkem": 6
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 1,
@@ -93935,6 +94560,23 @@
         "ženy": 5291,
         "celkem": 16429
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 11437,
+        "ženy": 4856,
+        "celkem": 16293
+      },
+      "trvale": {
+        "muži": 110,
+        "ženy": 549,
+        "celkem": 659
+      },
+      "total": {
+        "muži": 11547,
+        "ženy": 5405,
+        "celkem": 16952
+      }
     }
   },
   "Gabon": {
@@ -96521,6 +97163,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 1,
+        "celkem": 5
+      },
+      "trvale": {
+        "muži": 3,
+        "ženy": 5,
+        "celkem": 8
+      },
+      "total": {
+        "muži": 7,
+        "ženy": 6,
+        "celkem": 13
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 4,
         "ženy": 1,
@@ -99387,6 +100046,28 @@
         "ženy": 6,
         "celkem": 40
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 24,
+        "ženy": 2,
+        "celkem": 26
+      },
+      "trvale": {
+        "muži": 11,
+        "ženy": 4,
+        "celkem": 15
+      },
+      "total": {
+        "muži": 36,
+        "ženy": 6,
+        "celkem": 42
+      }
     }
   },
   "Ghana": {
@@ -102143,6 +102824,23 @@
         "ženy": 249,
         "celkem": 859
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 433,
+        "ženy": 212,
+        "celkem": 645
+      },
+      "trvale": {
+        "muži": 182,
+        "ženy": 44,
+        "celkem": 226
+      },
+      "total": {
+        "muži": 615,
+        "ženy": 256,
+        "celkem": 871
+      }
     }
   },
   "Grenada": {
@@ -104809,6 +105507,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 2,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 6,
+        "celkem": 15
+      },
+      "total": {
+        "muži": 10,
+        "ženy": 8,
+        "celkem": 18
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 2,
@@ -107675,6 +108390,28 @@
         "ženy": 870,
         "celkem": 2281
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 32,
+        "ženy": 11,
+        "celkem": 43
+      },
+      "přechodně": {
+        "muži": 1036,
+        "ženy": 558,
+        "celkem": 1594
+      },
+      "trvale": {
+        "muži": 348,
+        "ženy": 304,
+        "celkem": 652
+      },
+      "total": {
+        "muži": 1416,
+        "ženy": 873,
+        "celkem": 2289
+      }
     }
   },
   "Guatemala": {
@@ -110430,6 +111167,23 @@
         "muži": 28,
         "ženy": 30,
         "celkem": 58
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 15,
+        "ženy": 13,
+        "celkem": 28
+      },
+      "trvale": {
+        "muži": 12,
+        "ženy": 17,
+        "celkem": 29
+      },
+      "total": {
+        "muži": 27,
+        "ženy": 30,
+        "celkem": 57
       }
     }
   },
@@ -113187,6 +113941,23 @@
         "ženy": 27,
         "celkem": 86
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 12,
+        "ženy": 12,
+        "celkem": 24
+      },
+      "trvale": {
+        "muži": 48,
+        "ženy": 16,
+        "celkem": 64
+      },
+      "total": {
+        "muži": 60,
+        "ženy": 28,
+        "celkem": 88
+      }
     }
   },
   "Guinea-Bissau": {
@@ -115943,6 +116714,23 @@
         "ženy": 3,
         "celkem": 17
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 11,
+        "ženy": 3,
+        "celkem": 14
+      },
+      "total": {
+        "muži": 14,
+        "ženy": 3,
+        "celkem": 17
+      }
     }
   },
   "Guyana": {
@@ -118309,6 +119097,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 1,
+        "celkem": 4
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 1,
@@ -121055,6 +121860,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 3,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 1,
+        "celkem": 10
+      },
+      "total": {
+        "muži": 9,
+        "ženy": 4,
+        "celkem": 13
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 3,
@@ -123826,6 +124648,23 @@
         "ženy": 30,
         "celkem": 64
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 21,
+        "ženy": 21,
+        "celkem": 42
+      },
+      "trvale": {
+        "muži": 12,
+        "ženy": 9,
+        "celkem": 21
+      },
+      "total": {
+        "muži": 33,
+        "ženy": 30,
+        "celkem": 63
+      }
     }
   },
   "Hongkong": {
@@ -126567,6 +127406,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 17,
+        "celkem": 22
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 8,
+        "celkem": 9
+      },
+      "total": {
+        "muži": 6,
+        "ženy": 25,
+        "celkem": 31
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 5,
         "ženy": 17,
@@ -129337,6 +130193,23 @@
         "muži": 247,
         "ženy": 223,
         "celkem": 470
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 181,
+        "ženy": 159,
+        "celkem": 340
+      },
+      "trvale": {
+        "muži": 69,
+        "ženy": 62,
+        "celkem": 131
+      },
+      "total": {
+        "muži": 250,
+        "ženy": 221,
+        "celkem": 471
       }
     }
   },
@@ -132189,6 +133062,28 @@
         "ženy": 3798,
         "celkem": 11940
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "přechodně": {
+        "muži": 6909,
+        "ženy": 3251,
+        "celkem": 10160
+      },
+      "trvale": {
+        "muži": 1326,
+        "ženy": 594,
+        "celkem": 1920
+      },
+      "total": {
+        "muži": 8237,
+        "ženy": 3845,
+        "celkem": 12082
+      }
     }
   },
   "Indonésie": {
@@ -134944,6 +135839,23 @@
         "muži": 508,
         "ženy": 383,
         "celkem": 891
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 449,
+        "ženy": 248,
+        "celkem": 697
+      },
+      "trvale": {
+        "muži": 65,
+        "ženy": 136,
+        "celkem": 201
+      },
+      "total": {
+        "muži": 514,
+        "ženy": 384,
+        "celkem": 898
       }
     }
   },
@@ -137796,6 +138708,28 @@
         "ženy": 210,
         "celkem": 611
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "přechodně": {
+        "muži": 145,
+        "ženy": 77,
+        "celkem": 222
+      },
+      "trvale": {
+        "muži": 251,
+        "ženy": 133,
+        "celkem": 384
+      },
+      "total": {
+        "muži": 399,
+        "ženy": 210,
+        "celkem": 609
+      }
     }
   },
   "Írán": {
@@ -140646,6 +141580,28 @@
         "muži": 757,
         "ženy": 747,
         "celkem": 1504
+      }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 574,
+        "ženy": 597,
+        "celkem": 1171
+      },
+      "trvale": {
+        "muži": 185,
+        "ženy": 153,
+        "celkem": 338
+      },
+      "total": {
+        "muži": 760,
+        "ženy": 750,
+        "celkem": 1510
       }
     }
   },
@@ -143498,6 +144454,28 @@
         "ženy": 836,
         "celkem": 1955
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 2,
+        "ženy": 1,
+        "celkem": 3
+      },
+      "přechodně": {
+        "muži": 612,
+        "ženy": 509,
+        "celkem": 1121
+      },
+      "trvale": {
+        "muži": 508,
+        "ženy": 321,
+        "celkem": 829
+      },
+      "total": {
+        "muži": 1122,
+        "ženy": 831,
+        "celkem": 1953
+      }
     }
   },
   "Jamajka": {
@@ -146239,6 +147217,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 2,
+        "celkem": 6
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 10,
+        "celkem": 18
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 12,
+        "celkem": 24
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 4,
         "ženy": 2,
@@ -149010,6 +150005,23 @@
         "ženy": 1285,
         "celkem": 2281
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 868,
+        "ženy": 920,
+        "celkem": 1788
+      },
+      "trvale": {
+        "muži": 124,
+        "ženy": 376,
+        "celkem": 500
+      },
+      "total": {
+        "muži": 992,
+        "ženy": 1296,
+        "celkem": 2288
+      }
     }
   },
   "Jemen": {
@@ -151765,6 +152777,23 @@
         "muži": 122,
         "ženy": 101,
         "celkem": 223
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 43,
+        "ženy": 32,
+        "celkem": 75
+      },
+      "trvale": {
+        "muži": 79,
+        "ženy": 71,
+        "celkem": 150
+      },
+      "total": {
+        "muži": 122,
+        "ženy": 103,
+        "celkem": 225
       }
     }
   },
@@ -154522,6 +155551,23 @@
         "ženy": 277,
         "celkem": 616
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 193,
+        "ženy": 183,
+        "celkem": 376
+      },
+      "trvale": {
+        "muži": 145,
+        "ženy": 90,
+        "celkem": 235
+      },
+      "total": {
+        "muži": 338,
+        "ženy": 273,
+        "celkem": 611
+      }
     }
   },
   "Jižní Súdán": {
@@ -156423,6 +157469,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 2,
+        "ženy": 1,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 1,
+        "celkem": 4
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 2,
         "ženy": 1,
@@ -159194,6 +160257,23 @@
         "ženy": 127,
         "celkem": 423
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 162,
+        "ženy": 82,
+        "celkem": 244
+      },
+      "trvale": {
+        "muži": 136,
+        "ženy": 45,
+        "celkem": 181
+      },
+      "total": {
+        "muži": 298,
+        "ženy": 127,
+        "celkem": 425
+      }
     }
   },
   "Kambodža": {
@@ -161949,6 +163029,23 @@
         "muži": 47,
         "ženy": 82,
         "celkem": 129
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 41,
+        "ženy": 57,
+        "celkem": 98
+      },
+      "trvale": {
+        "muži": 6,
+        "ženy": 26,
+        "celkem": 32
+      },
+      "total": {
+        "muži": 47,
+        "ženy": 83,
+        "celkem": 130
       }
     }
   },
@@ -164770,6 +165867,23 @@
         "muži": 133,
         "ženy": 58,
         "celkem": 191
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 58,
+        "ženy": 38,
+        "celkem": 96
+      },
+      "trvale": {
+        "muži": 74,
+        "ženy": 20,
+        "celkem": 94
+      },
+      "total": {
+        "muži": 132,
+        "ženy": 58,
+        "celkem": 190
       }
     }
   },
@@ -167622,6 +168736,28 @@
         "ženy": 609,
         "celkem": 1455
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 465,
+        "ženy": 354,
+        "celkem": 819
+      },
+      "trvale": {
+        "muži": 369,
+        "ženy": 237,
+        "celkem": 606
+      },
+      "total": {
+        "muži": 835,
+        "ženy": 591,
+        "celkem": 1426
+      }
     }
   },
   "Kapverdy": {
@@ -170378,6 +171514,23 @@
         "ženy": 8,
         "celkem": 34
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 14,
+        "ženy": 3,
+        "celkem": 17
+      },
+      "trvale": {
+        "muži": 12,
+        "ženy": 5,
+        "celkem": 17
+      },
+      "total": {
+        "muži": 26,
+        "ženy": 8,
+        "celkem": 34
+      }
     }
   },
   "Katar": {
@@ -171221,6 +172374,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 2,
+        "ženy": 2,
+        "celkem": 4
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 3,
+        "celkem": 5
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 2,
         "ženy": 2,
@@ -174087,6 +175257,28 @@
         "ženy": 5624,
         "celkem": 10765
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "přechodně": {
+        "muži": 3609,
+        "ženy": 3486,
+        "celkem": 7095
+      },
+      "trvale": {
+        "muži": 1545,
+        "ženy": 2147,
+        "celkem": 3692
+      },
+      "total": {
+        "muži": 5159,
+        "ženy": 5634,
+        "celkem": 10793
+      }
     }
   },
   "Keňa": {
@@ -176842,6 +178034,23 @@
         "muži": 96,
         "ženy": 145,
         "celkem": 241
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 66,
+        "ženy": 109,
+        "celkem": 175
+      },
+      "trvale": {
+        "muži": 30,
+        "ženy": 37,
+        "celkem": 67
+      },
+      "total": {
+        "muži": 96,
+        "ženy": 146,
+        "celkem": 242
       }
     }
   },
@@ -179599,6 +180808,23 @@
         "ženy": 532,
         "celkem": 1313
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 648,
+        "ženy": 426,
+        "celkem": 1074
+      },
+      "trvale": {
+        "muži": 142,
+        "ženy": 112,
+        "celkem": 254
+      },
+      "total": {
+        "muži": 790,
+        "ženy": 538,
+        "celkem": 1328
+      }
     }
   },
   "Komory": {
@@ -180569,6 +181795,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -183317,6 +184560,23 @@
         "muži": 45,
         "ženy": 27,
         "celkem": 72
+      },
+      "total": {
+        "muži": 62,
+        "ženy": 43,
+        "celkem": 105
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 17,
+        "ženy": 15,
+        "celkem": 32
+      },
+      "trvale": {
+        "muži": 45,
+        "ženy": 28,
+        "celkem": 73
       },
       "total": {
         "muži": 62,
@@ -186079,6 +187339,23 @@
         "ženy": 17,
         "celkem": 46
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 9,
+        "celkem": 13
+      },
+      "trvale": {
+        "muži": 25,
+        "ženy": 8,
+        "celkem": 33
+      },
+      "total": {
+        "muži": 29,
+        "ženy": 17,
+        "celkem": 46
+      }
     }
   },
   "Severní Korea": {
@@ -188041,6 +189318,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 1,
@@ -190807,6 +192096,23 @@
         "ženy": 1638,
         "celkem": 3204
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 1314,
+        "ženy": 1288,
+        "celkem": 2602
+      },
+      "trvale": {
+        "muži": 281,
+        "ženy": 342,
+        "celkem": 623
+      },
+      "total": {
+        "muži": 1595,
+        "ženy": 1630,
+        "celkem": 3225
+      }
     }
   },
   "Kosovo": {
@@ -193563,6 +194869,23 @@
         "ženy": 564,
         "celkem": 1667
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 357,
+        "ženy": 231,
+        "celkem": 588
+      },
+      "trvale": {
+        "muži": 742,
+        "ženy": 333,
+        "celkem": 1075
+      },
+      "total": {
+        "muži": 1099,
+        "ženy": 564,
+        "celkem": 1663
+      }
     }
   },
   "Kostarika": {
@@ -196304,6 +197627,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 69,
+        "ženy": 60,
+        "celkem": 129
+      },
+      "trvale": {
+        "muži": 27,
+        "ženy": 31,
+        "celkem": 58
+      },
+      "total": {
+        "muži": 96,
+        "ženy": 91,
+        "celkem": 187
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 69,
         "ženy": 60,
@@ -199170,6 +200510,28 @@
         "ženy": 238,
         "celkem": 706
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "přechodně": {
+        "muži": 207,
+        "ženy": 113,
+        "celkem": 320
+      },
+      "trvale": {
+        "muži": 258,
+        "ženy": 128,
+        "celkem": 386
+      },
+      "total": {
+        "muži": 467,
+        "ženy": 241,
+        "celkem": 708
+      }
     }
   },
   "Kuvajt": {
@@ -201911,6 +203273,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 6,
+        "ženy": 1,
+        "celkem": 7
+      },
+      "trvale": {
+        "muži": 10,
+        "ženy": 2,
+        "celkem": 12
+      },
+      "total": {
+        "muži": 16,
+        "ženy": 3,
+        "celkem": 19
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 6,
         "ženy": 1,
@@ -204777,6 +206156,28 @@
         "ženy": 755,
         "celkem": 1579
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 4,
+        "ženy": 2,
+        "celkem": 6
+      },
+      "přechodně": {
+        "muži": 547,
+        "ženy": 433,
+        "celkem": 980
+      },
+      "trvale": {
+        "muži": 278,
+        "ženy": 323,
+        "celkem": 601
+      },
+      "total": {
+        "muži": 829,
+        "ženy": 758,
+        "celkem": 1587
+      }
     }
   },
   "Laos": {
@@ -207533,6 +208934,23 @@
         "ženy": 20,
         "celkem": 32
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 8,
+        "celkem": 13
+      },
+      "trvale": {
+        "muži": 7,
+        "ženy": 11,
+        "celkem": 18
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 19,
+        "celkem": 31
+      }
     }
   },
   "Lesotho": {
@@ -209779,6 +211197,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 1,
@@ -212645,6 +214080,28 @@
         "ženy": 142,
         "celkem": 450
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 116,
+        "ženy": 75,
+        "celkem": 191
+      },
+      "trvale": {
+        "muži": 188,
+        "ženy": 67,
+        "celkem": 255
+      },
+      "total": {
+        "muži": 305,
+        "ženy": 142,
+        "celkem": 447
+      }
     }
   },
   "Libérie": {
@@ -215211,6 +216668,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 6,
+        "ženy": 1,
+        "celkem": 7
+      },
+      "trvale": {
+        "muži": 4,
+        "ženy": 1,
+        "celkem": 5
+      },
+      "total": {
+        "muži": 10,
+        "ženy": 2,
+        "celkem": 12
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 6,
         "ženy": 1,
@@ -217982,6 +219456,23 @@
         "ženy": 66,
         "celkem": 231
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 58,
+        "ženy": 20,
+        "celkem": 78
+      },
+      "trvale": {
+        "muži": 107,
+        "ženy": 46,
+        "celkem": 153
+      },
+      "total": {
+        "muži": 165,
+        "ženy": 66,
+        "celkem": 231
+      }
     }
   },
   "Macao": {
@@ -219685,6 +221176,18 @@
         "muži": 1,
         "ženy": 1,
         "celkem": 2
+      }
+    },
+    "05.2026": {
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
       }
     }
   },
@@ -222427,6 +223930,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 11,
+        "celkem": 16
+      },
+      "trvale": {
+        "muži": 12,
+        "ženy": 8,
+        "celkem": 20
+      },
+      "total": {
+        "muži": 17,
+        "ženy": 19,
+        "celkem": 36
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 5,
         "ženy": 11,
@@ -225198,6 +226718,23 @@
         "ženy": 124,
         "celkem": 207
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 56,
+        "ženy": 67,
+        "celkem": 123
+      },
+      "trvale": {
+        "muži": 25,
+        "ženy": 58,
+        "celkem": 83
+      },
+      "total": {
+        "muži": 81,
+        "ženy": 125,
+        "celkem": 206
+      }
     }
   },
   "Malawi": {
@@ -227428,6 +228965,23 @@
         "muži": 2,
         "ženy": 3,
         "celkem": 5
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3,
+        "ženy": 4,
+        "celkem": 7
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 5,
+        "celkem": 8
       }
     }
   },
@@ -230039,6 +231593,23 @@
         "muži": 16,
         "ženy": 8,
         "celkem": 24
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 13,
+        "ženy": 8,
+        "celkem": 21
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 15,
+        "ženy": 8,
+        "celkem": 23
       }
     }
   },
@@ -232781,6 +234352,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 6,
+        "ženy": 3,
+        "celkem": 9
+      },
+      "trvale": {
+        "muži": 15,
+        "ženy": 5,
+        "celkem": 20
+      },
+      "total": {
+        "muži": 21,
+        "ženy": 8,
+        "celkem": 29
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 6,
         "ženy": 3,
@@ -235647,6 +237235,28 @@
         "ženy": 223,
         "celkem": 695
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 210,
+        "ženy": 154,
+        "celkem": 364
+      },
+      "trvale": {
+        "muži": 260,
+        "ženy": 67,
+        "celkem": 327
+      },
+      "total": {
+        "muži": 471,
+        "ženy": 221,
+        "celkem": 692
+      }
     }
   },
   "Mauricius": {
@@ -238388,6 +239998,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 22,
+        "ženy": 16,
+        "celkem": 38
+      },
+      "trvale": {
+        "muži": 27,
+        "ženy": 15,
+        "celkem": 42
+      },
+      "total": {
+        "muži": 49,
+        "ženy": 31,
+        "celkem": 80
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 22,
         "ženy": 16,
@@ -241159,6 +242786,23 @@
         "ženy": 0,
         "celkem": 4
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 4,
+        "ženy": 0,
+        "celkem": 4
+      }
     }
   },
   "Mexiko": {
@@ -243914,6 +245558,23 @@
         "muži": 858,
         "ženy": 627,
         "celkem": 1485
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 562,
+        "ženy": 448,
+        "celkem": 1010
+      },
+      "trvale": {
+        "muži": 287,
+        "ženy": 178,
+        "celkem": 465
+      },
+      "total": {
+        "muži": 849,
+        "ženy": 626,
+        "celkem": 1475
       }
     }
   },
@@ -246766,6 +248427,28 @@
         "ženy": 3296,
         "celkem": 8389
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 71,
+        "ženy": 45,
+        "celkem": 116
+      },
+      "přechodně": {
+        "muži": 2899,
+        "ženy": 1462,
+        "celkem": 4361
+      },
+      "trvale": {
+        "muži": 2144,
+        "ženy": 1803,
+        "celkem": 3947
+      },
+      "total": {
+        "muži": 5114,
+        "ženy": 3310,
+        "celkem": 8424
+      }
     }
   },
   "Mongolsko": {
@@ -249617,6 +251300,28 @@
         "ženy": 7446,
         "celkem": 15172
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 4544,
+        "ženy": 3178,
+        "celkem": 7722
+      },
+      "trvale": {
+        "muži": 3169,
+        "ženy": 4249,
+        "celkem": 7418
+      },
+      "total": {
+        "muži": 7713,
+        "ženy": 7428,
+        "celkem": 15141
+      }
     }
   },
   "Mosambik": {
@@ -252248,6 +253953,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 11,
+        "ženy": 4,
+        "celkem": 15
+      },
+      "trvale": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "total": {
+        "muži": 16,
+        "ženy": 5,
+        "celkem": 21
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 11,
         "ženy": 4,
@@ -255019,6 +256741,23 @@
         "ženy": 343,
         "celkem": 731
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 265,
+        "ženy": 252,
+        "celkem": 517
+      },
+      "trvale": {
+        "muži": 139,
+        "ženy": 107,
+        "celkem": 246
+      },
+      "total": {
+        "muži": 404,
+        "ženy": 359,
+        "celkem": 763
+      }
     }
   },
   "Namibie": {
@@ -257775,6 +259514,23 @@
         "ženy": 29,
         "celkem": 40
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 16,
+        "celkem": 20
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 13,
+        "celkem": 21
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 29,
+        "celkem": 41
+      }
     }
   },
   "Nauru": {
@@ -259555,6 +261311,18 @@
       }
     },
     "04.2026": {
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "trvale": {
         "muži": 1,
         "ženy": 0,
@@ -262321,6 +264089,23 @@
         "ženy": 668,
         "celkem": 1674
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 697,
+        "ženy": 526,
+        "celkem": 1223
+      },
+      "trvale": {
+        "muži": 313,
+        "ženy": 144,
+        "celkem": 457
+      },
+      "total": {
+        "muži": 1010,
+        "ženy": 670,
+        "celkem": 1680
+      }
     }
   },
   "Niger": {
@@ -264802,6 +266587,18 @@
       }
     },
     "04.2026": {
+      "trvale": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "trvale": {
         "muži": 2,
         "ženy": 0,
@@ -267663,6 +269460,28 @@
         "ženy": 357,
         "celkem": 1461
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 6,
+        "ženy": 0,
+        "celkem": 6
+      },
+      "přechodně": {
+        "muži": 602,
+        "ženy": 256,
+        "celkem": 858
+      },
+      "trvale": {
+        "muži": 498,
+        "ženy": 107,
+        "celkem": 605
+      },
+      "total": {
+        "muži": 1106,
+        "ženy": 363,
+        "celkem": 1469
+      }
     }
   },
   "Nikaragua": {
@@ -270404,6 +272223,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 7,
+        "ženy": 6,
+        "celkem": 13
+      },
+      "trvale": {
+        "muži": 6,
+        "ženy": 7,
+        "celkem": 13
+      },
+      "total": {
+        "muži": 13,
+        "ženy": 13,
+        "celkem": 26
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 7,
         "ženy": 6,
@@ -273175,6 +275011,23 @@
         "ženy": 86,
         "celkem": 303
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 127,
+        "ženy": 58,
+        "celkem": 185
+      },
+      "trvale": {
+        "muži": 86,
+        "ženy": 26,
+        "celkem": 112
+      },
+      "total": {
+        "muži": 213,
+        "ženy": 84,
+        "celkem": 297
+      }
     }
   },
   "Omán": {
@@ -274893,6 +276746,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 24,
+        "ženy": 1,
+        "celkem": 25
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 25,
+        "ženy": 1,
+        "celkem": 26
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 24,
         "ženy": 1,
@@ -277759,6 +279629,28 @@
         "ženy": 138,
         "celkem": 420
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 5,
+        "ženy": 2,
+        "celkem": 7
+      },
+      "přechodně": {
+        "muži": 41,
+        "ženy": 14,
+        "celkem": 55
+      },
+      "trvale": {
+        "muži": 236,
+        "ženy": 122,
+        "celkem": 358
+      },
+      "total": {
+        "muži": 282,
+        "ženy": 138,
+        "celkem": 420
+      }
     }
   },
   "Pákistán": {
@@ -280610,6 +282502,28 @@
         "ženy": 482,
         "celkem": 1464
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "přechodně": {
+        "muži": 641,
+        "ženy": 362,
+        "celkem": 1003
+      },
+      "trvale": {
+        "muži": 350,
+        "ženy": 121,
+        "celkem": 471
+      },
+      "total": {
+        "muži": 994,
+        "ženy": 483,
+        "celkem": 1477
+      }
     }
   },
   "Palestina": {
@@ -283365,6 +285279,23 @@
         "muži": 139,
         "ženy": 83,
         "celkem": 222
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 44,
+        "ženy": 31,
+        "celkem": 75
+      },
+      "trvale": {
+        "muži": 96,
+        "ženy": 52,
+        "celkem": 148
+      },
+      "total": {
+        "muži": 140,
+        "ženy": 83,
+        "celkem": 223
       }
     }
   },
@@ -286122,6 +288053,23 @@
         "ženy": 17,
         "celkem": 46
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 12,
+        "ženy": 9,
+        "celkem": 21
+      },
+      "trvale": {
+        "muži": 17,
+        "ženy": 8,
+        "celkem": 25
+      },
+      "total": {
+        "muži": 29,
+        "ženy": 17,
+        "celkem": 46
+      }
     }
   },
   "Papua Nová Guinea": {
@@ -287902,6 +289850,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 8,
+        "ženy": 3,
+        "celkem": 11
+      },
+      "total": {
+        "muži": 8,
+        "ženy": 3,
+        "celkem": 11
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 8,
         "ženy": 3,
@@ -290667,6 +292627,23 @@
         "muži": 18,
         "ženy": 10,
         "celkem": 28
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 10,
+        "ženy": 5,
+        "celkem": 15
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 6,
+        "celkem": 14
+      },
+      "total": {
+        "muži": 18,
+        "ženy": 11,
+        "celkem": 29
       }
     }
   },
@@ -293519,6 +295496,28 @@
         "ženy": 189,
         "celkem": 418
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 107,
+        "ženy": 110,
+        "celkem": 217
+      },
+      "trvale": {
+        "muži": 122,
+        "ženy": 80,
+        "celkem": 202
+      },
+      "total": {
+        "muži": 230,
+        "ženy": 190,
+        "celkem": 420
+      }
     }
   },
   "Pobřeží slonoviny": {
@@ -296275,6 +298274,23 @@
         "ženy": 15,
         "celkem": 93
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 26,
+        "ženy": 5,
+        "celkem": 31
+      },
+      "trvale": {
+        "muži": 53,
+        "ženy": 10,
+        "celkem": 63
+      },
+      "total": {
+        "muži": 79,
+        "ženy": 15,
+        "celkem": 94
+      }
     }
   },
   "Rovníková Guinea": {
@@ -296987,6 +299003,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 1,
@@ -299848,6 +301876,28 @@
         "ženy": 21204,
         "celkem": 37444
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 104,
+        "ženy": 181,
+        "celkem": 285
+      },
+      "přechodně": {
+        "muži": 4349,
+        "ženy": 5543,
+        "celkem": 9892
+      },
+      "trvale": {
+        "muži": 11781,
+        "ženy": 15480,
+        "celkem": 27261
+      },
+      "total": {
+        "muži": 16234,
+        "ženy": 21204,
+        "celkem": 37438
+      }
     }
   },
   "Rwanda": {
@@ -302602,6 +304652,23 @@
       "total": {
         "muži": 30,
         "ženy": 33,
+        "celkem": 63
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 27,
+        "ženy": 23,
+        "celkem": 50
+      },
+      "trvale": {
+        "muži": 5,
+        "ženy": 8,
+        "celkem": 13
+      },
+      "total": {
+        "muži": 32,
+        "ženy": 31,
         "celkem": 63
       }
     }
@@ -305360,6 +307427,23 @@
         "ženy": 18,
         "celkem": 58
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 22,
+        "ženy": 10,
+        "celkem": 32
+      },
+      "trvale": {
+        "muži": 19,
+        "ženy": 8,
+        "celkem": 27
+      },
+      "total": {
+        "muži": 41,
+        "ženy": 18,
+        "celkem": 59
+      }
     }
   },
   "Samoa": {
@@ -307065,6 +309149,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 2,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 0,
         "ženy": 1,
@@ -309836,6 +311937,23 @@
         "ženy": 12,
         "celkem": 65
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 24,
+        "ženy": 10,
+        "celkem": 34
+      },
+      "trvale": {
+        "muži": 29,
+        "ženy": 3,
+        "celkem": 32
+      },
+      "total": {
+        "muži": 53,
+        "ženy": 13,
+        "celkem": 66
+      }
     }
   },
   "Senegal": {
@@ -312577,6 +314695,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 38,
+        "ženy": 13,
+        "celkem": 51
+      },
+      "trvale": {
+        "muži": 53,
+        "ženy": 8,
+        "celkem": 61
+      },
+      "total": {
+        "muži": 91,
+        "ženy": 21,
+        "celkem": 112
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 38,
         "ženy": 13,
@@ -315443,6 +317578,28 @@
         "ženy": 853,
         "celkem": 2809
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 4,
+        "ženy": 0,
+        "celkem": 4
+      },
+      "přechodně": {
+        "muži": 749,
+        "ženy": 354,
+        "celkem": 1103
+      },
+      "trvale": {
+        "muži": 1187,
+        "ženy": 497,
+        "celkem": 1684
+      },
+      "total": {
+        "muži": 1940,
+        "ženy": 851,
+        "celkem": 2791
+      }
     }
   },
   "Seychely": {
@@ -318184,6 +320341,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 11,
+        "celkem": 15
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 1,
+        "celkem": 3
+      },
+      "total": {
+        "muži": 6,
+        "ženy": 12,
+        "celkem": 18
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 4,
         "ženy": 11,
@@ -320955,6 +323129,23 @@
         "ženy": 2,
         "celkem": 17
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 12,
+        "ženy": 2,
+        "celkem": 14
+      },
+      "total": {
+        "muži": 15,
+        "ženy": 2,
+        "celkem": 17
+      }
     }
   },
   "Singapur": {
@@ -323711,6 +325902,23 @@
         "ženy": 56,
         "celkem": 103
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 34,
+        "ženy": 28,
+        "celkem": 62
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 22,
+        "celkem": 31
+      },
+      "total": {
+        "muži": 43,
+        "ženy": 50,
+        "celkem": 93
+      }
     }
   },
   "Somálsko": {
@@ -326427,6 +328635,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 8,
+        "celkem": 16
+      },
+      "total": {
+        "muži": 9,
+        "ženy": 8,
+        "celkem": 17
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -329183,6 +331408,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 7,
+        "ženy": 1,
+        "celkem": 8
+      },
+      "trvale": {
+        "muži": 3,
+        "ženy": 0,
+        "celkem": 3
+      },
+      "total": {
+        "muži": 10,
+        "ženy": 1,
+        "celkem": 11
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 7,
         "ženy": 1,
@@ -332049,6 +334291,28 @@
         "ženy": 4327,
         "celkem": 10240
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 5,
+        "ženy": 3,
+        "celkem": 8
+      },
+      "přechodně": {
+        "muži": 3130,
+        "ženy": 2860,
+        "celkem": 5990
+      },
+      "trvale": {
+        "muži": 2802,
+        "ženy": 1503,
+        "celkem": 4305
+      },
+      "total": {
+        "muži": 5937,
+        "ženy": 4366,
+        "celkem": 10303
+      }
     }
   },
   "Společenství nezávislých států": {
@@ -334074,6 +336338,18 @@
       }
     },
     "04.2026": {
+      "trvale": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "trvale": {
         "muži": 0,
         "ženy": 1,
@@ -336935,6 +339211,28 @@
         "ženy": 26,
         "celkem": 76
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 1,
+        "celkem": 2
+      },
+      "přechodně": {
+        "muži": 0,
+        "ženy": 2,
+        "celkem": 2
+      },
+      "trvale": {
+        "muži": 48,
+        "ženy": 23,
+        "celkem": 71
+      },
+      "total": {
+        "muži": 49,
+        "ženy": 26,
+        "celkem": 75
+      }
     }
   },
   "Středoafrická republika": {
@@ -337455,6 +339753,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -340221,6 +342531,23 @@
         "ženy": 32,
         "celkem": 94
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 27,
+        "ženy": 23,
+        "celkem": 50
+      },
+      "trvale": {
+        "muži": 35,
+        "ženy": 9,
+        "celkem": 44
+      },
+      "total": {
+        "muži": 62,
+        "ženy": 32,
+        "celkem": 94
+      }
     }
   },
   "Surinam": {
@@ -342717,6 +345044,23 @@
         "ženy": 12,
         "celkem": 24
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 9,
+        "ženy": 9,
+        "celkem": 18
+      },
+      "trvale": {
+        "muži": 3,
+        "ženy": 3,
+        "celkem": 6
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 12,
+        "celkem": 24
+      }
     }
   },
   "Svatá Lucie": {
@@ -344983,6 +347327,18 @@
         "ženy": 1,
         "celkem": 4
       }
+    },
+    "05.2026": {
+      "trvale": {
+        "muži": 3,
+        "ženy": 1,
+        "celkem": 4
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 1,
+        "celkem": 4
+      }
     }
   },
   "Svatý Kryštof a Nevis": {
@@ -346905,6 +349261,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 7,
+        "ženy": 6,
+        "celkem": 13
+      },
+      "trvale": {
+        "muži": 4,
+        "ženy": 3,
+        "celkem": 7
+      },
+      "total": {
+        "muži": 11,
+        "ženy": 9,
+        "celkem": 20
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 7,
         "ženy": 6,
@@ -349241,6 +351614,23 @@
         "ženy": 2,
         "celkem": 4
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 2,
+        "celkem": 3
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 2,
+        "celkem": 4
+      }
     }
   },
   "Svatý Vincenc a Grenadiny": {
@@ -351153,6 +353543,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 2,
         "ženy": 0,
@@ -353479,6 +355881,18 @@
       }
     },
     "04.2026": {
+      "trvale": {
+        "muži": 163,
+        "ženy": 81,
+        "celkem": 244
+      },
+      "total": {
+        "muži": 163,
+        "ženy": 81,
+        "celkem": 244
+      }
+    },
+    "05.2026": {
       "trvale": {
         "muži": 163,
         "ženy": 81,
@@ -356340,6 +358754,28 @@
         "ženy": 643,
         "celkem": 1615
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 383,
+        "ženy": 275,
+        "celkem": 658
+      },
+      "trvale": {
+        "muži": 589,
+        "ženy": 370,
+        "celkem": 959
+      },
+      "total": {
+        "muži": 973,
+        "ženy": 645,
+        "celkem": 1618
+      }
     }
   },
   "Srí Lanka": {
@@ -359095,6 +361531,23 @@
         "muži": 182,
         "ženy": 84,
         "celkem": 266
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 111,
+        "ženy": 60,
+        "celkem": 171
+      },
+      "trvale": {
+        "muži": 74,
+        "ženy": 25,
+        "celkem": 99
+      },
+      "total": {
+        "muži": 185,
+        "ženy": 85,
+        "celkem": 270
       }
     }
   },
@@ -361947,6 +364400,28 @@
         "ženy": 105,
         "celkem": 290
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 4,
+        "ženy": 0,
+        "celkem": 4
+      },
+      "přechodně": {
+        "muži": 110,
+        "ženy": 55,
+        "celkem": 165
+      },
+      "trvale": {
+        "muži": 72,
+        "ženy": 49,
+        "celkem": 121
+      },
+      "total": {
+        "muži": 186,
+        "ženy": 104,
+        "celkem": 290
+      }
     }
   },
   "Tanzanie": {
@@ -364688,6 +367163,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 23,
+        "ženy": 22,
+        "celkem": 45
+      },
+      "trvale": {
+        "muži": 15,
+        "ženy": 11,
+        "celkem": 26
+      },
+      "total": {
+        "muži": 38,
+        "ženy": 33,
+        "celkem": 71
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 23,
         "ženy": 22,
@@ -367459,6 +369951,23 @@
         "ženy": 1838,
         "celkem": 2018
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 155,
+        "ženy": 1409,
+        "celkem": 1564
+      },
+      "trvale": {
+        "muži": 31,
+        "ženy": 471,
+        "celkem": 502
+      },
+      "total": {
+        "muži": 186,
+        "ženy": 1880,
+        "celkem": 2066
+      }
     }
   },
   "Tchaj-wan": {
@@ -370214,6 +372723,23 @@
         "muži": 266,
         "ženy": 621,
         "celkem": 887
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 221,
+        "ženy": 472,
+        "celkem": 693
+      },
+      "trvale": {
+        "muži": 39,
+        "ženy": 131,
+        "celkem": 170
+      },
+      "total": {
+        "muži": 260,
+        "ženy": 603,
+        "celkem": 863
       }
     }
   },
@@ -372971,6 +375497,23 @@
         "ženy": 3,
         "celkem": 19
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 5,
+        "ženy": 0,
+        "celkem": 5
+      },
+      "trvale": {
+        "muži": 11,
+        "ženy": 3,
+        "celkem": 14
+      },
+      "total": {
+        "muži": 16,
+        "ženy": 3,
+        "celkem": 19
+      }
     }
   },
   "Tonga": {
@@ -375572,6 +378115,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 3,
+        "celkem": 5
+      },
+      "total": {
+        "muži": 3,
+        "ženy": 3,
+        "celkem": 6
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -378328,6 +380888,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 9,
+        "ženy": 6,
+        "celkem": 15
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 2,
+        "celkem": 4
+      },
+      "total": {
+        "muži": 11,
+        "ženy": 8,
+        "celkem": 19
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 9,
         "ženy": 6,
@@ -381168,6 +383745,28 @@
         "muži": 1388,
         "ženy": 283,
         "celkem": 1671
+      }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 0,
+        "ženy": 1,
+        "celkem": 1
+      },
+      "přechodně": {
+        "muži": 415,
+        "ženy": 166,
+        "celkem": 581
+      },
+      "trvale": {
+        "muži": 978,
+        "ženy": 120,
+        "celkem": 1098
+      },
+      "total": {
+        "muži": 1393,
+        "ženy": 287,
+        "celkem": 1680
       }
     }
   },
@@ -384020,6 +386619,28 @@
         "ženy": 2114,
         "celkem": 6579
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 4,
+        "ženy": 0,
+        "celkem": 4
+      },
+      "přechodně": {
+        "muži": 3288,
+        "ženy": 1730,
+        "celkem": 5018
+      },
+      "trvale": {
+        "muži": 1182,
+        "ženy": 388,
+        "celkem": 1570
+      },
+      "total": {
+        "muži": 4474,
+        "ženy": 2118,
+        "celkem": 6592
+      }
     }
   },
   "Turkmenistán": {
@@ -386871,6 +389492,28 @@
         "ženy": 43,
         "celkem": 77
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 5,
+        "ženy": 1,
+        "celkem": 6
+      },
+      "přechodně": {
+        "muži": 21,
+        "ženy": 15,
+        "celkem": 36
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 27,
+        "celkem": 35
+      },
+      "total": {
+        "muži": 34,
+        "ženy": 43,
+        "celkem": 77
+      }
     }
   },
   "Uganda": {
@@ -389626,6 +392269,23 @@
         "muži": 39,
         "ženy": 52,
         "celkem": 91
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 29,
+        "ženy": 34,
+        "celkem": 63
+      },
+      "trvale": {
+        "muži": 11,
+        "ženy": 19,
+        "celkem": 30
+      },
+      "total": {
+        "muži": 40,
+        "ženy": 53,
+        "celkem": 93
       }
     }
   },
@@ -392478,6 +395138,28 @@
         "ženy": 308573,
         "celkem": 606991
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 177950,
+        "ženy": 208312,
+        "celkem": 386262
+      },
+      "přechodně": {
+        "muži": 58142,
+        "ženy": 42015,
+        "celkem": 100157
+      },
+      "trvale": {
+        "muži": 63976,
+        "ženy": 59536,
+        "celkem": 123512
+      },
+      "total": {
+        "muži": 300068,
+        "ženy": 309863,
+        "celkem": 609931
+      }
     }
   },
   "Other - Uprchlík dle konvence": {
@@ -395234,6 +397916,23 @@
         "ženy": 1,
         "celkem": 13
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4,
+        "ženy": 0,
+        "celkem": 4
+      },
+      "trvale": {
+        "muži": 8,
+        "ženy": 1,
+        "celkem": 9
+      },
+      "total": {
+        "muži": 12,
+        "ženy": 1,
+        "celkem": 13
+      }
     }
   },
   "Other - Uprchlík ostatní": {
@@ -396801,6 +399500,23 @@
       }
     },
     "04.2026": {
+      "dočasná ochrana": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 3,
+        "celkem": 4
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 3,
+        "celkem": 5
+      }
+    },
+    "05.2026": {
       "dočasná ochrana": {
         "muži": 1,
         "ženy": 0,
@@ -399571,6 +402287,23 @@
         "muži": 17,
         "ženy": 18,
         "celkem": 35
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 10,
+        "ženy": 6,
+        "celkem": 16
+      },
+      "trvale": {
+        "muži": 7,
+        "ženy": 11,
+        "celkem": 18
+      },
+      "total": {
+        "muži": 17,
+        "ženy": 17,
+        "celkem": 34
       }
     }
   },
@@ -402423,6 +405156,28 @@
         "ženy": 1087,
         "celkem": 4144
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 7,
+        "ženy": 4,
+        "celkem": 11
+      },
+      "přechodně": {
+        "muži": 2083,
+        "ženy": 480,
+        "celkem": 2563
+      },
+      "trvale": {
+        "muži": 976,
+        "ženy": 597,
+        "celkem": 1573
+      },
+      "total": {
+        "muži": 3066,
+        "ženy": 1081,
+        "celkem": 4147
+      }
     }
   },
   "Vanuatu": {
@@ -404624,6 +407379,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 3,
+        "ženy": 6,
+        "celkem": 9
+      },
+      "trvale": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "total": {
+        "muži": 5,
+        "ženy": 6,
+        "celkem": 11
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 3,
         "ženy": 6,
@@ -407490,6 +410262,28 @@
         "ženy": 1921,
         "celkem": 7976
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      },
+      "přechodně": {
+        "muži": 2983,
+        "ženy": 1251,
+        "celkem": 4234
+      },
+      "trvale": {
+        "muži": 3063,
+        "ženy": 671,
+        "celkem": 3734
+      },
+      "total": {
+        "muži": 6048,
+        "ženy": 1922,
+        "celkem": 7970
+      }
     }
   },
   "Venezuela": {
@@ -410245,6 +413039,23 @@
         "muži": 170,
         "ženy": 170,
         "celkem": 340
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 79,
+        "ženy": 83,
+        "celkem": 162
+      },
+      "trvale": {
+        "muži": 91,
+        "ženy": 88,
+        "celkem": 179
+      },
+      "total": {
+        "muži": 170,
+        "ženy": 171,
+        "celkem": 341
       }
     }
   },
@@ -413097,6 +415908,28 @@
         "ženy": 33070,
         "celkem": 70036
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 19,
+        "ženy": 21,
+        "celkem": 40
+      },
+      "přechodně": {
+        "muži": 5737,
+        "ženy": 6745,
+        "celkem": 12482
+      },
+      "trvale": {
+        "muži": 31253,
+        "ženy": 26333,
+        "celkem": 57586
+      },
+      "total": {
+        "muži": 37009,
+        "ženy": 33099,
+        "celkem": 70108
+      }
     }
   },
   "Východní Timor": {
@@ -413533,6 +416366,18 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -416394,6 +419239,28 @@
         "ženy": 39,
         "celkem": 104
       }
+    },
+    "05.2026": {
+      "dočasná ochrana": {
+        "muži": 20,
+        "ženy": 19,
+        "celkem": 39
+      },
+      "přechodně": {
+        "muži": 20,
+        "ženy": 10,
+        "celkem": 30
+      },
+      "trvale": {
+        "muži": 22,
+        "ženy": 14,
+        "celkem": 36
+      },
+      "total": {
+        "muži": 62,
+        "ženy": 43,
+        "celkem": 105
+      }
     }
   },
   "Zambie": {
@@ -419149,6 +422016,23 @@
         "muži": 88,
         "ženy": 70,
         "celkem": 158
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 65,
+        "ženy": 61,
+        "celkem": 126
+      },
+      "trvale": {
+        "muži": 24,
+        "ženy": 9,
+        "celkem": 33
+      },
+      "total": {
+        "muži": 89,
+        "ženy": 70,
+        "celkem": 159
       }
     }
   },
@@ -421906,6 +424790,23 @@
         "ženy": 96,
         "celkem": 228
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 107,
+        "ženy": 81,
+        "celkem": 188
+      },
+      "trvale": {
+        "muži": 25,
+        "ženy": 16,
+        "celkem": 41
+      },
+      "total": {
+        "muži": 132,
+        "ženy": 97,
+        "celkem": 229
+      }
     }
   },
   "Belgie": {
@@ -424656,6 +427557,23 @@
         "muži": 303,
         "ženy": 81,
         "celkem": 384
+      },
+      "total": {
+        "muži": 623,
+        "ženy": 179,
+        "celkem": 802
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 320,
+        "ženy": 97,
+        "celkem": 417
+      },
+      "trvale": {
+        "muži": 303,
+        "ženy": 82,
+        "celkem": 385
       },
       "total": {
         "muži": 623,
@@ -427418,6 +430336,23 @@
         "ženy": 6230,
         "celkem": 17402
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 6270,
+        "ženy": 2791,
+        "celkem": 9061
+      },
+      "trvale": {
+        "muži": 4871,
+        "ženy": 3416,
+        "celkem": 8287
+      },
+      "total": {
+        "muži": 11141,
+        "ženy": 6207,
+        "celkem": 17348
+      }
     }
   },
   "Dánsko": {
@@ -430172,6 +433107,23 @@
       "total": {
         "muži": 327,
         "ženy": 117,
+        "celkem": 444
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 204,
+        "ženy": 83,
+        "celkem": 287
+      },
+      "trvale": {
+        "muži": 125,
+        "ženy": 32,
+        "celkem": 157
+      },
+      "total": {
+        "muži": 329,
+        "ženy": 115,
         "celkem": 444
       }
     }
@@ -432930,6 +435882,23 @@
         "ženy": 157,
         "celkem": 318
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 104,
+        "ženy": 87,
+        "celkem": 191
+      },
+      "trvale": {
+        "muži": 59,
+        "ženy": 70,
+        "celkem": 129
+      },
+      "total": {
+        "muži": 163,
+        "ženy": 157,
+        "celkem": 320
+      }
     }
   },
   "Finsko": {
@@ -435685,6 +438654,23 @@
         "muži": 236,
         "ženy": 141,
         "celkem": 377
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 143,
+        "ženy": 88,
+        "celkem": 231
+      },
+      "trvale": {
+        "muži": 94,
+        "ženy": 53,
+        "celkem": 147
+      },
+      "total": {
+        "muži": 237,
+        "ženy": 141,
+        "celkem": 378
       }
     }
   },
@@ -438442,6 +441428,23 @@
         "ženy": 1175,
         "celkem": 4222
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 1724,
+        "ženy": 700,
+        "celkem": 2424
+      },
+      "trvale": {
+        "muži": 1330,
+        "ženy": 475,
+        "celkem": 1805
+      },
+      "total": {
+        "muži": 3054,
+        "ženy": 1175,
+        "celkem": 4229
+      }
     }
   },
   "Chorvatsko": {
@@ -441196,6 +444199,23 @@
       "total": {
         "muži": 2063,
         "ženy": 1190,
+        "celkem": 3253
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 623,
+        "ženy": 359,
+        "celkem": 982
+      },
+      "trvale": {
+        "muži": 1439,
+        "ženy": 832,
+        "celkem": 2271
+      },
+      "total": {
+        "muži": 2062,
+        "ženy": 1191,
         "celkem": 3253
       }
     }
@@ -443954,6 +446974,23 @@
         "ženy": 243,
         "celkem": 926
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 372,
+        "ženy": 155,
+        "celkem": 527
+      },
+      "trvale": {
+        "muži": 316,
+        "ženy": 89,
+        "celkem": 405
+      },
+      "total": {
+        "muži": 688,
+        "ženy": 244,
+        "celkem": 932
+      }
     }
   },
   "Island": {
@@ -446695,6 +449732,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 23,
+        "ženy": 10,
+        "celkem": 33
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 6,
+        "celkem": 15
+      },
+      "total": {
+        "muži": 32,
+        "ženy": 16,
+        "celkem": 48
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 23,
         "ženy": 10,
@@ -449466,6 +452520,23 @@
         "ženy": 1559,
         "celkem": 6541
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 2645,
+        "ženy": 988,
+        "celkem": 3633
+      },
+      "trvale": {
+        "muži": 2337,
+        "ženy": 577,
+        "celkem": 2914
+      },
+      "total": {
+        "muži": 4982,
+        "ženy": 1565,
+        "celkem": 6547
+      }
     }
   },
   "Kypr": {
@@ -452222,6 +455293,23 @@
         "ženy": 100,
         "celkem": 248
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 82,
+        "ženy": 65,
+        "celkem": 147
+      },
+      "trvale": {
+        "muži": 66,
+        "ženy": 36,
+        "celkem": 102
+      },
+      "total": {
+        "muži": 148,
+        "ženy": 101,
+        "celkem": 249
+      }
     }
   },
   "Lichtenštejnsko": {
@@ -454573,6 +457661,23 @@
       }
     },
     "04.2026": {
+      "přechodně": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "trvale": {
+        "muži": 1,
+        "ženy": 0,
+        "celkem": 1
+      },
+      "total": {
+        "muži": 2,
+        "ženy": 0,
+        "celkem": 2
+      }
+    },
+    "05.2026": {
       "přechodně": {
         "muži": 1,
         "ženy": 0,
@@ -457344,6 +460449,23 @@
         "ženy": 423,
         "celkem": 869
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 222,
+        "ženy": 149,
+        "celkem": 371
+      },
+      "trvale": {
+        "muži": 224,
+        "ženy": 273,
+        "celkem": 497
+      },
+      "total": {
+        "muži": 446,
+        "ženy": 422,
+        "celkem": 868
+      }
     }
   },
   "Lotyšsko": {
@@ -460100,6 +463222,23 @@
         "ženy": 385,
         "celkem": 882
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 349,
+        "ženy": 209,
+        "celkem": 558
+      },
+      "trvale": {
+        "muži": 150,
+        "ženy": 178,
+        "celkem": 328
+      },
+      "total": {
+        "muži": 499,
+        "ženy": 387,
+        "celkem": 886
+      }
     }
   },
   "Lucembursko": {
@@ -462854,6 +465993,23 @@
       "total": {
         "muži": 38,
         "ženy": 8,
+        "celkem": 46
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 30,
+        "ženy": 7,
+        "celkem": 37
+      },
+      "trvale": {
+        "muži": 9,
+        "ženy": 0,
+        "celkem": 9
+      },
+      "total": {
+        "muži": 39,
+        "ženy": 7,
         "celkem": 46
       }
     }
@@ -465612,6 +468768,23 @@
         "ženy": 4767,
         "celkem": 12243
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4833,
+        "ženy": 2771,
+        "celkem": 7604
+      },
+      "trvale": {
+        "muži": 2672,
+        "ženy": 2012,
+        "celkem": 4684
+      },
+      "total": {
+        "muži": 7505,
+        "ženy": 4783,
+        "celkem": 12288
+      }
     }
   },
   "Malta": {
@@ -468367,6 +471540,23 @@
         "muži": 54,
         "ženy": 29,
         "celkem": 83
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 34,
+        "ženy": 20,
+        "celkem": 54
+      },
+      "trvale": {
+        "muži": 21,
+        "ženy": 10,
+        "celkem": 31
+      },
+      "total": {
+        "muži": 55,
+        "ženy": 30,
+        "celkem": 85
       }
     }
   },
@@ -471124,6 +474314,23 @@
         "ženy": 3047,
         "celkem": 10934
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 4503,
+        "ženy": 1537,
+        "celkem": 6040
+      },
+      "trvale": {
+        "muži": 3314,
+        "ženy": 1514,
+        "celkem": 4828
+      },
+      "total": {
+        "muži": 7817,
+        "ženy": 3051,
+        "celkem": 10868
+      }
     }
   },
   "Nizozemsko": {
@@ -473879,6 +477086,23 @@
         "muži": 1662,
         "ženy": 634,
         "celkem": 2296
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 800,
+        "ženy": 332,
+        "celkem": 1132
+      },
+      "trvale": {
+        "muži": 864,
+        "ženy": 302,
+        "celkem": 1166
+      },
+      "total": {
+        "muži": 1664,
+        "ženy": 634,
+        "celkem": 2298
       }
     }
   },
@@ -476636,6 +479860,23 @@
         "ženy": 72,
         "celkem": 242
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 112,
+        "ženy": 51,
+        "celkem": 163
+      },
+      "trvale": {
+        "muži": 57,
+        "ženy": 21,
+        "celkem": 78
+      },
+      "total": {
+        "muži": 169,
+        "ženy": 72,
+        "celkem": 241
+      }
     }
   },
   "Polsko": {
@@ -479391,6 +482632,23 @@
         "muži": 7891,
         "ženy": 9709,
         "celkem": 17600
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 3506,
+        "ženy": 2451,
+        "celkem": 5957
+      },
+      "trvale": {
+        "muži": 4390,
+        "ženy": 7250,
+        "celkem": 11640
+      },
+      "total": {
+        "muži": 7896,
+        "ženy": 9701,
+        "celkem": 17597
       }
     }
   },
@@ -482148,6 +485406,23 @@
         "ženy": 333,
         "celkem": 1146
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 542,
+        "ženy": 252,
+        "celkem": 794
+      },
+      "trvale": {
+        "muži": 277,
+        "ženy": 87,
+        "celkem": 364
+      },
+      "total": {
+        "muži": 819,
+        "ženy": 339,
+        "celkem": 1158
+      }
     }
   },
   "Rakousko": {
@@ -484903,6 +488178,23 @@
         "muži": 1578,
         "ženy": 598,
         "celkem": 2176
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 758,
+        "ženy": 286,
+        "celkem": 1044
+      },
+      "trvale": {
+        "muži": 816,
+        "ženy": 310,
+        "celkem": 1126
+      },
+      "total": {
+        "muži": 1574,
+        "ženy": 596,
+        "celkem": 2170
       }
     }
   },
@@ -487660,6 +490952,23 @@
         "ženy": 7382,
         "celkem": 21301
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 8485,
+        "ženy": 3713,
+        "celkem": 12198
+      },
+      "trvale": {
+        "muži": 5437,
+        "ženy": 3676,
+        "celkem": 9113
+      },
+      "total": {
+        "muži": 13922,
+        "ženy": 7389,
+        "celkem": 21311
+      }
     }
   },
   "Řecko": {
@@ -490415,6 +493724,23 @@
         "muži": 1429,
         "ženy": 637,
         "celkem": 2066
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 716,
+        "ženy": 340,
+        "celkem": 1056
+      },
+      "trvale": {
+        "muži": 703,
+        "ženy": 296,
+        "celkem": 999
+      },
+      "total": {
+        "muži": 1419,
+        "ženy": 636,
+        "celkem": 2055
       }
     }
   },
@@ -493172,6 +496498,23 @@
         "ženy": 61782,
         "celkem": 126526
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 28477,
+        "ženy": 22926,
+        "celkem": 51403
+      },
+      "trvale": {
+        "muži": 36395,
+        "ženy": 39048,
+        "celkem": 75443
+      },
+      "total": {
+        "muži": 64872,
+        "ženy": 61974,
+        "celkem": 126846
+      }
     }
   },
   "Slovinsko": {
@@ -495926,6 +499269,23 @@
       "total": {
         "muži": 350,
         "ženy": 231,
+        "celkem": 581
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 175,
+        "ženy": 120,
+        "celkem": 295
+      },
+      "trvale": {
+        "muži": 174,
+        "ženy": 112,
+        "celkem": 286
+      },
+      "total": {
+        "muži": 349,
+        "ženy": 232,
         "celkem": 581
       }
     }
@@ -498684,6 +502044,23 @@
         "ženy": 747,
         "celkem": 2382
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 1065,
+        "ženy": 531,
+        "celkem": 1596
+      },
+      "trvale": {
+        "muži": 572,
+        "ženy": 224,
+        "celkem": 796
+      },
+      "total": {
+        "muži": 1637,
+        "ženy": 755,
+        "celkem": 2392
+      }
     }
   },
   "Švédsko": {
@@ -501440,6 +504817,23 @@
         "ženy": 478,
         "celkem": 1312
       }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 563,
+        "ženy": 335,
+        "celkem": 898
+      },
+      "trvale": {
+        "muži": 266,
+        "ženy": 136,
+        "celkem": 402
+      },
+      "total": {
+        "muži": 829,
+        "ženy": 471,
+        "celkem": 1300
+      }
     }
   },
   "Švýcarsko": {
@@ -504195,6 +507589,23 @@
         "muži": 393,
         "ženy": 206,
         "celkem": 599
+      }
+    },
+    "05.2026": {
+      "přechodně": {
+        "muži": 190,
+        "ženy": 99,
+        "celkem": 289
+      },
+      "trvale": {
+        "muži": 207,
+        "ženy": 108,
+        "celkem": 315
+      },
+      "total": {
+        "muži": 397,
+        "ženy": 207,
+        "celkem": 604
       }
     }
   },
