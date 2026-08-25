@@ -8,28 +8,28 @@ Data source: https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx
 
 ### Top 20 zemí podle počtu cizinců / Top 20 countries by foreigners
 
-| #   | Country                                           | Foreigners   |
-|-----|---------------------------------------------------|--------------|
-| 1   | [Ukrajina](stats/Ukrajina.md)                     | 619 176      |
-| 2   | [Slovensko](stats/Slovensko.md)                   | 127 454      |
-| 3   | [Vietnam](stats/Vietnam.md)                       | 70 126       |
-| 4   | [Rusko](stats/Rusko.md)                           | 37 400       |
-| 5   | [Rumunsko](stats/Rumunsko.md)                     | 21 276       |
-| 6   | [Filipíny](stats/Filipiny.md)                     | 18 038       |
-| 7   | [Polsko](stats/Polsko.md)                         | 17 565       |
-| 8   | [Bulharsko](stats/Bulharsko.md)                   | 17 250       |
-| 9   | [Mongolsko](stats/Mongolsko.md)                   | 15 261       |
-| 10  | [Maďarsko](stats/Madarsko.md)                     | 12 369       |
-| 11  | [Indie](stats/Indie.md)                           | 12 305       |
-| 12  | [Spojené státy](stats/Spojene_staty.md)           | 11 252       |
-| 13  | [Kazachstán](stats/Kazachstan.md)                 | 10 809       |
-| 14  | [Německo](stats/Nemecko.md)                       | 10 767       |
-| 15  | [Čína](stats/Cina.md)                             | 10 406       |
-| 16  | [Moldavsko](stats/Moldavsko.md)                   | 8 539        |
-| 17  | [Spojené království](stats/Spojene_kralovstvi.md) | 7 966        |
-| 18  | [Bělorusko](stats/Belorusko.md)                   | 7 027        |
-| 19  | [Turecko](stats/Turecko.md)                       | 6 588        |
-| 20  | [Itálie](stats/Italie.md)                         | 6 562        |
+| #   | Country                                           | #       | %      |
+|-----|---------------------------------------------------|---------|--------|
+| 1   | [Ukrajina](stats/Ukrajina.md)                     | 619 176 | 54.25% |
+| 2   | [Slovensko](stats/Slovensko.md)                   | 127 454 | 11.17% |
+| 3   | [Vietnam](stats/Vietnam.md)                       | 70 126  | 6.14%  |
+| 4   | [Rusko](stats/Rusko.md)                           | 37 400  | 3.28%  |
+| 5   | [Rumunsko](stats/Rumunsko.md)                     | 21 276  | 1.86%  |
+| 6   | [Filipíny](stats/Filipiny.md)                     | 18 038  | 1.58%  |
+| 7   | [Polsko](stats/Polsko.md)                         | 17 565  | 1.54%  |
+| 8   | [Bulharsko](stats/Bulharsko.md)                   | 17 250  | 1.51%  |
+| 9   | [Mongolsko](stats/Mongolsko.md)                   | 15 261  | 1.34%  |
+| 10  | [Maďarsko](stats/Madarsko.md)                     | 12 369  | 1.08%  |
+| 11  | [Indie](stats/Indie.md)                           | 12 305  | 1.08%  |
+| 12  | [Spojené státy](stats/Spojene_staty.md)           | 11 252  | 0.99%  |
+| 13  | [Kazachstán](stats/Kazachstan.md)                 | 10 809  | 0.95%  |
+| 14  | [Německo](stats/Nemecko.md)                       | 10 767  | 0.94%  |
+| 15  | [Čína](stats/Cina.md)                             | 10 406  | 0.91%  |
+| 16  | [Moldavsko](stats/Moldavsko.md)                   | 8 539   | 0.75%  |
+| 17  | [Spojené království](stats/Spojene_kralovstvi.md) | 7 966   | 0.70%  |
+| 18  | [Bělorusko](stats/Belorusko.md)                   | 7 027   | 0.62%  |
+| 19  | [Turecko](stats/Turecko.md)                       | 6 588   | 0.58%  |
+| 20  | [Itálie](stats/Italie.md)                         | 6 562   | 0.57%  |
 
 ### Evropa / Europe
 

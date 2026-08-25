@@ -231,6 +231,16 @@ def generate_stats():
         else:
             other_links.append(f"- [{country}](stats/{md_filename})")
 
+    overall_total_dates = sorted(
+        data.get("Total", {}).keys(),
+        key=lambda d: pd.to_datetime(d, format="%m.%Y", errors="coerce")
+    )
+    overall_total_foreigners = 0
+    if overall_total_dates:
+        overall_total_foreigners = int(
+            data["Total"][overall_total_dates[-1]].get('total', {}).get('celkem', 0)
+        )
+
     top_countries = []
     for country in sorted(data.keys()):
         if country == "Total":
@@ -249,6 +259,7 @@ def generate_stats():
         top_countries.append({
             "country": country,
             "total": int(latest_total),
+            "share": (int(latest_total) / overall_total_foreigners * 100) if overall_total_foreigners else 0,
             "safe_name": remove_diacritics(country).replace(" ", "_").replace("/", "_").replace("\\", "_")
         })
 
@@ -268,13 +279,14 @@ def generate_stats():
 
         if top_countries:
             top_rows = [
-                ["#", "Country", "Foreigners"]
+                ["#", "Country", "#", "%"]
             ]
             for rank, item in enumerate(top_countries, start=1):
                 top_rows.append([
                     str(rank),
                     f"[{item['country']}](stats/{item['safe_name']}.md)",
-                    fmt(item['total'])
+                    fmt(item['total']),
+                    f"{item['share']:.2f}%"
                 ])
 
             f.write("### Top 20 zemí podle počtu cizinců / Top 20 countries by foreigners\n\n")
