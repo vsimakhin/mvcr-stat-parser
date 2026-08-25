@@ -1,4 +1,4 @@
-## Cizinci s povoleným pobytem v ČR/Foreigners in Czech Republic - Statistics Overview
+## Cizinci s povoleným pobytem v ČR/Foreigners in the Czech Republic - Statistics Overview
 
 Data source: https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx
 

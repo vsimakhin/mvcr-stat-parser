@@ -258,7 +258,7 @@ def generate_stats():
     # Generate index file (stats.md in root)
     print(f"Generating root {INDEX_FILE}...")
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
-        f.write("## Cizinci s povoleným pobytem v ČR/Foreigners in Czech Republic - Statistics Overview\n\n")
+        f.write("## Cizinci s povoleným pobytem v ČR/Foreigners in the Czech Republic - Statistics Overview\n\n")
         f.write("Data source: https://mv.gov.cz/clanek/cizinci-s-povolenym-pobytem.aspx\n\n")
 
         if totals_links:
