@@ -231,6 +231,30 @@ def generate_stats():
         else:
             other_links.append(f"- [{country}](stats/{md_filename})")
 
+    top_countries = []
+    for country in sorted(data.keys()):
+        if country == "Total":
+            continue
+
+        country_data = data.get(country, {})
+        if not country_data:
+            continue
+
+        sorted_dates = sorted(country_data.keys(), key=lambda d: pd.to_datetime(d, format="%m.%Y", errors="coerce"))
+        if not sorted_dates:
+            continue
+
+        latest_date = sorted_dates[-1]
+        latest_total = country_data[latest_date].get('total', {}).get('celkem', 0)
+        top_countries.append({
+            "country": country,
+            "total": int(latest_total),
+            "safe_name": remove_diacritics(country).replace(" ", "_").replace("/", "_").replace("\\", "_")
+        })
+
+    top_countries.sort(key=lambda item: item["total"], reverse=True)
+    top_countries = top_countries[:20]
+
     # Generate index file (stats.md in root)
     print(f"Generating root {INDEX_FILE}...")
     with open(INDEX_FILE, "w", encoding="utf-8") as f:
@@ -240,6 +264,21 @@ def generate_stats():
         if totals_links:
             f.write("### Celkové statistiky / Total Statistics\n\n")
             f.write("\n".join(totals_links))
+            f.write("\n\n")
+
+        if top_countries:
+            top_rows = [
+                ["#", "Country", "Foreigners"]
+            ]
+            for rank, item in enumerate(top_countries, start=1):
+                top_rows.append([
+                    str(rank),
+                    f"[{item['country']}](stats/{item['safe_name']}.md)",
+                    fmt(item['total'])
+                ])
+
+            f.write("### Top 20 zemí podle počtu cizinců / Top 20 countries by foreigners\n\n")
+            f.write(tabulate(top_rows, headers="firstrow", tablefmt="github", disable_numparse=True))
             f.write("\n\n")
 
         if europe_links:
