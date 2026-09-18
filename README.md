@@ -1,6 +1,6 @@
 ## Cizinci s povoleným pobytem v ČR/Foreigners in the Czech Republic - Statistics Overview
 
-Data source: https://mv.gov.cz/cizinci-s-povolenym-pobytem-2
+Data source: https://mv.gov.cz/cizinci-s-povolenym-pobytem---prehled-za-rok-2026
 
 ### Celkové statistiky / Total Statistics
 
