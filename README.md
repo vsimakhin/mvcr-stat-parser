@@ -10,26 +10,26 @@ Data source: https://mv.gov.cz/cizinci-s-povolenym-pobytem-2
 
 | #   | Country                                           | #       | %      |
 |-----|---------------------------------------------------|---------|--------|
-| 1   | [Ukrajina](stats/Ukrajina.md)                     | 616 587 | 53.98% |
-| 2   | [Slovensko](stats/Slovensko.md)                   | 127 998 | 11.21% |
-| 3   | [Vietnam](stats/Vietnam.md)                       | 70 098  | 6.14%  |
-| 4   | [Rusko](stats/Rusko.md)                           | 37 148  | 3.25%  |
-| 5   | [Rumunsko](stats/Rumunsko.md)                     | 21 222  | 1.86%  |
-| 6   | [Filipíny](stats/Filipiny.md)                     | 19 323  | 1.69%  |
-| 7   | [Polsko](stats/Polsko.md)                         | 17 566  | 1.54%  |
-| 8   | [Bulharsko](stats/Bulharsko.md)                   | 17 123  | 1.50%  |
-| 9   | [Mongolsko](stats/Mongolsko.md)                   | 15 356  | 1.34%  |
-| 10  | [Indie](stats/Indie.md)                           | 12 592  | 1.10%  |
-| 11  | [Maďarsko](stats/Madarsko.md)                     | 12 456  | 1.09%  |
-| 12  | [Spojené státy](stats/Spojene_staty.md)           | 10 982  | 0.96%  |
-| 13  | [Německo](stats/Nemecko.md)                       | 10 719  | 0.94%  |
-| 14  | [Kazachstán](stats/Kazachstan.md)                 | 10 660  | 0.93%  |
-| 15  | [Čína](stats/Cina.md)                             | 10 487  | 0.92%  |
-| 16  | [Moldavsko](stats/Moldavsko.md)                   | 8 615   | 0.75%  |
-| 17  | [Spojené království](stats/Spojene_kralovstvi.md) | 7 981   | 0.70%  |
-| 18  | [Turecko](stats/Turecko.md)                       | 6 997   | 0.61%  |
-| 19  | [Bělorusko](stats/Belorusko.md)                   | 6 987   | 0.61%  |
-| 20  | [Itálie](stats/Italie.md)                         | 6 583   | 0.58%  |
+| 1   | [Ukrajina](stats/Ukrajina.md)                     | 620 717 | 54.08% |
+| 2   | [Slovensko](stats/Slovensko.md)                   | 128 211 | 11.17% |
+| 3   | [Vietnam](stats/Vietnam.md)                       | 70 158  | 6.11%  |
+| 4   | [Rusko](stats/Rusko.md)                           | 37 120  | 3.23%  |
+| 5   | [Rumunsko](stats/Rumunsko.md)                     | 21 204  | 1.85%  |
+| 6   | [Filipíny](stats/Filipiny.md)                     | 20 016  | 1.74%  |
+| 7   | [Polsko](stats/Polsko.md)                         | 17 529  | 1.53%  |
+| 8   | [Bulharsko](stats/Bulharsko.md)                   | 17 060  | 1.49%  |
+| 9   | [Mongolsko](stats/Mongolsko.md)                   | 15 371  | 1.34%  |
+| 10  | [Indie](stats/Indie.md)                           | 12 724  | 1.11%  |
+| 11  | [Maďarsko](stats/Madarsko.md)                     | 12 461  | 1.09%  |
+| 12  | [Spojené státy](stats/Spojene_staty.md)           | 10 996  | 0.96%  |
+| 13  | [Německo](stats/Nemecko.md)                       | 10 682  | 0.93%  |
+| 14  | [Kazachstán](stats/Kazachstan.md)                 | 10 665  | 0.93%  |
+| 15  | [Čína](stats/Cina.md)                             | 10 467  | 0.91%  |
+| 16  | [Moldavsko](stats/Moldavsko.md)                   | 8 616   | 0.75%  |
+| 17  | [Spojené království](stats/Spojene_kralovstvi.md) | 7 964   | 0.69%  |
+| 18  | [Turecko](stats/Turecko.md)                       | 7 138   | 0.62%  |
+| 19  | [Bělorusko](stats/Belorusko.md)                   | 6 968   | 0.61%  |
+| 20  | [Itálie](stats/Italie.md)                         | 6 592   | 0.57%  |
 
 ### Evropa / Europe
 

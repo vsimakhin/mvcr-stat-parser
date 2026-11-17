@@ -10,7 +10,8 @@
 
 ## Detailní tabulka / Detailed Data Table
 
-| Date     | Total   | Longterm Residence Permit   | Permanent Residence Permit   | Asylum   |
-|----------|---------|-----------------------------|------------------------------|----------|
-| **2026** |         |                             |                              |          |
-| 09.2026  | 1       | 1                           | 0                            | 0        |
+| Date     | Total      | Longterm Residence Permit   | Permanent Residence Permit   | Asylum   |
+|----------|------------|-----------------------------|------------------------------|----------|
+| **2026** |            |                             |                              |          |
+| 09.2026  | 1          | 1                           | 0                            | 0        |
+| 10.2026  | 1 (+0.00%) | 1 (+0.00%)                  | 0                            | 0        |
